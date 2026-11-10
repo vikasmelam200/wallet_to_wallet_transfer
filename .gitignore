@@ -1,0 +1,7 @@
+# .gitignore
+.env
+*.exe
+wallet-service
+/vendor/
+.idea/
+.vscode/
